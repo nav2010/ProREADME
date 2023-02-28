@@ -12,14 +12,15 @@ function generateMarkdown(data) {
   ## Description
   ${data.description}
   ## Table Of Content
-  *[Title](#title)
-  *[Description](#description)
-  *[Installation](#installation)
-  *[Usage](#usage)
-  *[License](#license)
-  *[Contributors](#contributor)
-  *[Test](#test)
-  *[Questions](#questions)
+  -[Title](#title)
+  -[Description](#description)
+  -[Installation](#installation)
+  -[Usage](#usage)
+  -[License](#license)
+  -[Contributors](#contributor)
+  -[Test](#test)
+  -[Repo](#repo)
+  -[Questions](#questions)
   ## Installation
   ${data.installation}
   ## Usage?
@@ -34,7 +35,7 @@ function generateMarkdown(data) {
  ${data.repo}
 
  ## Linkedin
- ${data.Linkedin}
+ https://www.linkedin.com/in/${data.Linkedin}/
   ## Questions
   Any questions about this project  message on https://github.com/${data.github} or email me at [${data.email}](mailto:${data.email})
   ${data.license ? `
