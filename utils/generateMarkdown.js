@@ -12,15 +12,16 @@ function generateMarkdown(data) {
   ## Description
   ${data.description}
   ## Table Of Content
-  -[Title](#title)
-  -[Description](#description)
-  -[Installation](#installation)
-  -[Usage](#usage)
-  -[License](#license)
-  -[Contributors](#contributor)
-  -[Test](#test)
-  -[Repo](#repo)
-  -[Questions](#questions)
+
+  - [Title](#title)
+  - [Description](#description)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [License](#license)
+  - [Contributors](#contributor)
+  - [Test](#test)
+  - [Repo](#repo)
+  - [Questions](#questions)
   ## Installation
   ${data.installation}
   ## Usage?
@@ -41,7 +42,7 @@ function generateMarkdown(data) {
   ${data.license ? `
   
   ## License
-  This project is licensed under the ${data.license} .` : ''}
+  This project is licensed under the ${usedLicense} .` : ''}
 `
 return readMe;
 }

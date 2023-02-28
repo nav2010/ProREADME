@@ -1,28 +1,29 @@
 
-  # read me 
+  # ReadMe
   
   ## Description
-  do readme
+  make Readme 
   ## Table Of Content
-  -[Title](#title)
-  -[Description](#description)
-  -[Installation](#installation)
-  -[Usage](#usage)
-  -[License](#license)
-  -[Contributors](#contributor)
-  -[Test](#test)
-  -[Repo](#repo)
-  -[Questions](#questions)
+
+  - [Title](#title)
+  - [Description](#description)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [License](#license)
+  - [Contributors](#contributor)
+  - [Test](#test)
+  - [Repo](#repo)
+  - [Questions](#questions)
   ## Installation
   none
   ## Usage?
-  to create readme file
+  To Create Readme
   ## License
   [![License: ](https://img.shields.io/badge/License--brightgreen.svg)](https://opensource.org/licenses/)
 
 
   ## Contributors
-  
+  1
   ## Tests
   node index
  ## Repos 
@@ -35,4 +36,6 @@
   
   
   ## License
-  This project is licensed under the  .
+  This project is licensed under the [![License: ](https://img.shields.io/badge/License--brightgreen.svg)](https://opensource.org/licenses/)
+
+ .
