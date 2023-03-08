@@ -1,8 +1,8 @@
 
-  # Readme file
+  # Readme File
   
   ## Description
-  create Readme file
+  Create read me file
   ## Table Of Content
 
   - [Title](#title)
@@ -17,7 +17,7 @@
   ## Installation
   npm
   ## Usage?
-  to create readme
+  to create readme file generator
   ## License
   [![License: ](https://img.shields.io/badge/License--brightgreen.svg)](https://opensource.org/licenses/)
 
@@ -25,7 +25,7 @@
   ## Contributors
   
   ## Tests
-  
+  node index.js
  ## Repos 
  https://github.com/nav2010/ProREADME
 
