@@ -78,8 +78,9 @@ function writeToFile(fileName, data) {
   }
 
 // function to initialize program
+
 function init() {
-    userQuestion().then((data) => writeToFile("README.md", data));
+    userQuestion().then((data) => writeToFile("READMEgenerator.md", data));
 }
 // function call to initialize program
 init();
